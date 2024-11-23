@@ -27,3 +27,17 @@ JB Jokes is a lightweight Chrome extension designed to brighten your day with fu
    ```bash
    git clone https://github.com/jeetrico/JB-Jokes.git
 
+Open Chrome and go to chrome://extensions/.
+Enable Developer Mode.
+Click Load Unpacked and select the project folder.
+Start enjoying random jokes while you browse!
+License
+This project is licensed under the MIT License. Feel free to use and modify it!
+
+Happy coding! 😊
+
+
+
+
+
+
