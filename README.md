@@ -33,6 +33,14 @@ Click Load Unpacked and select the project folder.
 Start enjoying jokes instantly!
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+├── src/
+│   ├── popup.html
+│   ├── style.css
+│   ├── script.js
+├── assets/
+│   ├── logo.png
+├── manifest.json
+
 
 🤝 Contributing
 Feel free to fork this repository, make your changes, and submit a pull request. Contributions are welcome!
