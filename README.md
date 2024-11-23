@@ -25,5 +25,5 @@ JB Jokes is a lightweight Chrome extension designed to brighten your day with fu
 ## Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/JB-Jokes.git
+   git clone https://github.com/jeetrico/JB-Jokes.git
 
