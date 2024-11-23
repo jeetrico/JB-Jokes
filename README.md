@@ -1,5 +1,3 @@
-# JB-Jokes
-JB Jokes Chrome Extension: Add humor to your browser with this lightweight and fun project built using HTML, CSS, and JavaScript.
 # JB Jokes Chrome Extension 🎉  
 
 **Bring laughter to your browsing experience!**  
@@ -22,27 +20,44 @@ JB Jokes is a lightweight Chrome extension designed to brighten your day with fu
 
 ---
 
-🛠️ Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/jeetrico/JB-Jokes.git  
-Open Chrome and navigate to chrome://extensions/.
-Enable Developer Mode.
-Click Load Unpacked and select the project folder.
-Start enjoying jokes instantly!
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 🛠️ Installation  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/jeetrico/JB-Jokes.git
+   ```  
+2. Open Chrome and navigate to:  
+   ```
+   chrome://extensions/
+   ```  
+3. Enable **Developer Mode**.  
+4. Click **Load Unpacked** and select the project folder.  
+5. Start enjoying jokes instantly!  
+
+---
+
+## 📂 Project Structure  
+
+```
 ├── src/
-│   ├── popup.html
-│   ├── style.css
-│   ├── script.js
+│   ├── popup.html      # Core HTML file
+│   ├── style.css       # Styling for the extension
+│   ├── script.js       # JavaScript logic
 ├── assets/
-│   ├── logo.png
-├── manifest.json
+│   ├── logo.png        # Extension logo
+├── manifest.json       # Chrome extension manifest file
+```
 
+---
 
-🤝 Contributing
-Feel free to fork this repository, make your changes, and submit a pull request. Contributions are welcome!
+## 📝 License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
+---
 
+## 🤝 Contributing  
+Feel free to fork this repository, make your changes, and submit a pull request. Contributions are welcome!  
+
+---
+
+**Brighten your browsing today with JB Jokes!** 😊
