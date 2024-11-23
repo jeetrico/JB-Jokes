@@ -1,5 +1,5 @@
 # JB Jokes Chrome Extension 🎉  
-https://youtu.be/g6KrWLtB2i4?si=JIy4NpGLKXrCvRQd
+
 **Bring laughter to your browsing experience!**  
 JB Jokes is a lightweight Chrome extension designed to brighten your day with fun and engaging jokes right from your browser. Built with **HTML**, **CSS**, and **JavaScript**, this project showcases how creative coding can bring simple yet impactful ideas to life.  
 
